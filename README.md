@@ -46,7 +46,19 @@ Key features of this project are:
 3. Apache Spark - creating datasets and performing analyses, joining multiple datasets to obtain correlations and create final views
 4. Apache HBase - storing views created with Apache Spark to enable random reads
 
+
+## [🎯 Business Analysis in PowerBI]([https://github.com/katarzynarogalska/Big-Data-Apache-project](https://github.com/katarzynarogalska/PowerBI-Business-Analysis)) - Sales data analysis
+This project aims to analyze [Kaggle Sales Dataset](www.kaggle.com/datasets/vinothkannaece/sales-dataset?resource=download) using PowerBI and Power Query in order to draw valuable business insights.
+
+Key features of this project are:
+1. Raw data analysis
+2. Data transformation using Power Query - data types, new columns, data cleaning
+3. Data modeling - establishing relationships between tables
+4. Dashboard creation in PowerBI
+5. Drawing conclusions from the generated report
+
 --------------------------
+
 And many more ... which can be found in the corresponding repositories 
 
 
